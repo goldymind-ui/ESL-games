@@ -1,0 +1,5 @@
+{
+  "name": "ESL Grammar Game: There Is / There Are",
+  "description": "An interactive game for English language learners to practice using 'there is' and 'there are'. The app generates an image and a descriptive sentence, and the player must decide if the sentence is correct or incorrect.",
+  "requestFramePermissions": []
+}
